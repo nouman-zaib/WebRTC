@@ -1,0 +1,35 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# PHP dependencies
+/vendor/
+
+# JavaScript dependencies and build output
+/node_modules/
+/dist/
+/build/
+
+# Runtime files
+*.log
+*.sqlite
+*.sqlite3
+*.db
+/tmp/
+/cache/
+/sessions/
+/uploads/
+
+# Local editor settings
+.vscode/*
+!.vscode/extensions.json
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# XAMPP/local server files
+php_errorlog
+error_log
