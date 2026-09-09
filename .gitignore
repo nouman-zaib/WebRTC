@@ -16,6 +16,7 @@
 *.sqlite
 *.sqlite3
 *.db
+/data/
 /tmp/
 /cache/
 /sessions/
