@@ -166,7 +166,7 @@ Browsers restrict `getUserMedia` (camera and microphone) to **Secure Contexts (H
    ```
 2. Enter your LAN IP and port: `http://192.168.1.15` (or your PC's IP).
 3. Select **Enabled** and click **Relaunch**.
-4. Reload the page and camera access will work seamlessly!
+4. Reload the page and camera access will work seamlessly.
 
 ---
 
